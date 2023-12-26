@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HD</title>
+    <!-- bootstrap css -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <!-- bootstrap-icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css"> 
+    <link rel="stylesheet" href="src/css/panel.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class=" profil-card">
+             <div>
+                 <h1 class="text-center my-5">Profil</h1>
+                 <div class="row my-5">
+                     <div class="col-3 text-center customer-name ms-auto" >kullanıcı adı</div>
+                     <div class="col-3 text-center customer-name ms-auto" >mail</div>
+                     <div class="col-3 text-center customer-name ms-auto" > Bakım türü</div>
+                     <div class="col-2 ms-auto text-center">
+                         <button class="edit-button"><i class="bi bi-pencil-square"></i> Düzenle</button>
+                     </div>
+                 </div>
+             </div>
+            </div>
+            <div class="date-card">
+                <h1 class="text-center my-5">Haftalık Takvim</h1>
+                <hr>
+                <iframe class="takvim" src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FIstanbul&showTz=0&showCalendars=0&showTabs=0&mode=WEEK&showPrint=0&showDate=0&showNav=0&showTitle=0&src=bWVydmVteXNhMTRAZ21haWwuY29t&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=dHIudHVya2lzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%2333B679&color=%230B8043" style="border:solid 1px #777"  frameborder="0" scrolling="no"></iframe>
+            </div>
+        </div>
+        <div class="row">
+            <div class=" randevu-card">
+                <div>
+                    <h1 class="text-center my-2">Randevularım</h1>
+                    <hr>
+                    <div class="row my-2">
+                        <div class="col-2 text-center customer-name" >Kuaför İsmi</div>
+                        <div class="col-2 text-center customer-name ms-auto" >Bakım Türü</div>
+                        <div class="col-2 text-center customer-date ms-auto" >Tarih / Saat</div>
+                        <div class="col-3 text-center customer-name ms-auto" > Açıklama</div>
+                        <div class="col-2 text-center customer-name ms-auto" > Durum</div>
+                        
+                    </div>
+                    <div class="row my-5">
+                        <div class="col-2 text-center customer-name" >Aslıhan Malkoç</div>
+                        <div class="col-2 text-center customer-name ms-auto" >Tırnak Bakım</div>
+                        <div class="col-2 text-center customer-date ms-auto" >10.01.2024 / 12.00</div>
+                        <div class="col-3 text-center customer-name ms-auto" > 5 dakika gecikebilirim.</div>
+                        <div class="col-2 ms-auto text-center">
+                            <button class="edit-button"><i class="bi bi-check-lg"></i> Onayla</button>
+                            <button class="edit-button"><i class="bi bi-trash3"></i> İptal Et</button>
+                        </div>
+                    </div>
+                    <div class="row my-5">
+                        <div class="col-2 text-center customer-name" >Aslıhan Malkoç</div>
+                        <div class="col-2 text-center customer-name ms-auto" >Tırnak Bakım</div>
+                        <div class="col-2 text-center customer-date ms-auto" >10.01.2024 / 12.00</div>
+                        <div class="col-3 text-center customer-name ms-auto" > 5 dakika gecikebilirim.</div>
+                        <div class="col-2 ms-auto text-center">
+                            <button class="edit-button"><i class="bi bi-check-lg"></i> Onayla</button>
+                            <button class="edit-button"><i class="bi bi-trash3"></i> İptal Et</button>
+                        </div>
+                    </div>
+                </div>
+               </div>
+        </div>
+    </div>
+
+
+    <script src="src/js/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html> 

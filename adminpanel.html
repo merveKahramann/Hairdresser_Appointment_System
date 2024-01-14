@@ -12,28 +12,60 @@
     <link rel="stylesheet" href="kaynak/css/panel.css">
 </head>
 <body>
-    <div class="container-fluid">
+    
         <div class="row">
-            <div class=" profil-card">
+            <div class=" kuafor-card">
              <div>
-                 <h1 class="text-center my-5">Profil</h1>
-                 <div class="row my-5">
-                     <div class="col-3 text-center customer-name ms-auto" >kullanıcı adı</div>
-                     <div class="col-3 text-center customer-name ms-auto" >mail</div>
-                     <div class="col-3 text-center customer-name ms-auto" > Bakım türü</div>
-                     <div class="col-2 ms-auto text-center">
-                         <button class="edit-button"><i class="bi bi-pencil-square"></i> Düzenle</button>
-                     </div>
-                 </div>
+                 <h1 class="text-center my-5">Kuaförler</h1>
+                 <div class="dropdown d-flex justify-content-center">
+                    <button class="btn dropdown-button dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Kuaför Seçiniz
+                    </button>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="#">Merve Kahraman</a></li>
+                      <li><a class="dropdown-item" href="#">Aysu Altuntaş</a></li>
+                      <li><a class="dropdown-item" href="#">İ. Burak Yavru</a></li>
+                      <li><a class="dropdown-item" href="#">Mehmet Gökmen</a></li>
+                    </ul>
+                  </div>
              </div>
             </div>
+      
+ 
+            
+            <div class=" profil-card">
+                <div>
+                    <h1 class="text-center my-5">Profil</h1>
+                    <div class="row my-5">
+                        <div class="col-3 text-center customer-name ms-auto" >kullanıcı adı</div>
+                        <div class="col-3 text-center customer-name ms-auto" >mail</div>
+                        <div class="col-3 text-center customer-name ms-auto" > Bakım türü</div>
+                        <div class="col-2 ms-auto text-center">
+                            <button class="edit-button"><i class="bi bi-pencil-square"></i> Düzenle</button>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="row my-5">
+                        <div class="col-3 text-center customer-name ms-auto" >Merve Kahraman</div>
+                        <div class="col-3 text-center customer-name ms-auto" >merve16@hotmail.com</div>
+                        <div class="col-3 text-center customer-name ms-auto" >Kirpik Lifting</div>
+                        <div class="col-2 ms-auto text-center">
+                            <button class="edit-button"><i class="bi bi-pencil-square"></i> Düzenle</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>  
+           <div class="row">
             <div class="date-card">
                 <h1 class="text-center my-5">Haftalık Takvim</h1>
                 <hr>
                 <iframe class="takvim" src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FIstanbul&showTz=0&showCalendars=0&showTabs=0&mode=WEEK&showPrint=0&showDate=0&showNav=0&showTitle=0&src=bWVydmVteXNhMTRAZ21haWwuY29t&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=dHIudHVya2lzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%2333B679&color=%230B8043" style="border:solid 1px #777"  frameborder="0" scrolling="no"></iframe>
             </div>
-        </div>
-        <div class="row">
+        
+        
             <div class=" randevu-card">
                 <div>
                     <h1 class="text-center my-2">Randevularım</h1>

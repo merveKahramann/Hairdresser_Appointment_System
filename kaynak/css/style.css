@@ -2,22 +2,22 @@
 
 @import url('https://rsms.me/inter/inter-ui.css');
 ::selection {
-  background: #2D2F36;
+  background: #8b7f5f;
 }
 ::-webkit-selection {
-  background: #2D2F36;
+  background: #8b7f5f;
 }
 ::-moz-selection {
-  background: #2D2F36;
+  background: #8b7f5f;
 }
 body {
-  background: white;
+  background: #8b7f5f;
   font-family: 'Inter UI', sans-serif;
   margin: 0;
   padding: 20px;
 }
 .page {
-  background: #e2e2e5;
+  background: #8b7f5f;
   display: flex;
   flex-direction: column;
   height: calc(100% - 40px);
@@ -72,7 +72,7 @@ body {
   margin: 40px;
 }
 .right {
-  background: #474A59;
+  background: #b0a789;
   box-shadow: 0px 0px 40px 16px rgba(0,0,0,0.22);
   color: #F1F1F2;
   position: relative;
@@ -101,7 +101,7 @@ path {
   position: absolute;
 }
 label {
-  color:  #c2c2c5;
+  color:  black;
   display: block;
   font-size: 14px;
   height: 16px;

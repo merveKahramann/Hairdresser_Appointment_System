@@ -40,6 +40,21 @@ h1{
     height: 400px;
     overflow: auto;
 }
+.kuafor-card{
+    width: 50%;
+    border: solid 3px #796c4c;
+    padding-inline: 25px;
+    height: 400px;
+    overflow: auto;
+}
+.dropdown-button{
+    border: solid 3px #796c4c;
+    background-color: #796c4c;
+    color: white;
+}
+.dropdown-button:hover{
+    background-color: #796c4c;
+}
 .date-card{
     width: 50%;
     border: solid 3px #796c4c;

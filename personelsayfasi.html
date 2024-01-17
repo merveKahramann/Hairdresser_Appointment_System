@@ -12,11 +12,54 @@
 .custom-column {
     margin-bottom: 15px; /* Boşluğu kontrol etmek için değeri ihtiyaca göre ayarlayın */
 }
+.navbar-custom {
+        background-color: #c3b081; 
+    }
+    .bi-instagram{
+      color:purple;
+    }
+    .bi-telephone-fill{
+      color: green;
+    }
+    .bi-geo-alt-fill{
+      color: red;
+    }
     </style>
     <title>Document</title>
 
 </head>
 <body>
+  <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top mb-5">
+    <a class="navbar-brand " href="#"><strong>VESU BEAUTY</strong></a>
+    <div class="collapse navbar-collapse flex-row-reverse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" href="index.html">Anasayfa <span class="sr-only"></span></a></li>
+            <li class="nav-item"><a class="nav-link active" href="personelsayfasi.html">Personellerimiz </a></li>
+            <li class="nav-item" data-bs-toggle="modal" data-bs-target="#contactModal"><a class="nav-link" href="#">İletişim </a></li>
+            <li class="nav-item"><a class="nav-link" href="giriskayit.html"> Randevu Al </a></li>
+            <li class="nav-item"><a class="nav-link" href="login.html">  </a></li>
+        </ul>
+    </div>
+    
+  </nav>
+  <div class="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="contactModalLabel">Bize Ulaşın</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p> <i class="bi bi-instagram"></i> vesubeautybursa<p>
+                </p><i class="bi bi-telephone-fill"></i> 225 021 0204<p>
+                </p> <i class="bi bi-geo-alt-fill"></i> Meşe Mahallesi Gül Sokak no:34/1 Vesu Beauty Güzellik Salonu</p>
+            </div>
+        </div>
+    </div>
+  </div>
+  <br>
+  
+  
     <div class="container marketing ">
 
         <div class="row my-5">

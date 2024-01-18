@@ -72,7 +72,7 @@ https://photos.app.goo.gl/9b6BPQwjRCSHjwNs7
  
 - Anasayfa: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
   
-  İndex sayfası müşteri navbar kısmını kullanarak istediği sayfaya geçiş yapabilir.
+  İndex sayfası müşteri navbar kısmını kullanarak istediği sayfaya geçiş yapabilir.Carouselden  salonumuzun resimlerini görebilir.
 - Personel Sayfası: https://photos.app.goo.gl/qSuXxKoWhNo2YRED8
 
   Müşterilerin personellerimizi görebileceği sayfadır.

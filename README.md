@@ -70,11 +70,12 @@ Aşağıdaki kılavuzlar bazı özelliklerin somut olarak nasıl kullanılacağ�
 https://photos.app.goo.gl/9b6BPQwjRCSHjwNs7
 
  
- >Anasayfa: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
- >Personel Sayfası: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
- >Randevu Oluşturma Sayfası: https://photos.app.goo.gl/a9VFF9Ux58ZpfVa69
- >Kullanıcı Giriş Sayfası: https://photos.app.goo.gl/udciUDLKiYmH5B5T9
- >Admin Sayfası: https://photos.app.goo.gl/n15QffNHSpPD4BpL9
- >Kuaför Paneli: https://photos.app.goo.gl/KgajBeBcs4deZs8h6
- >Müşteri Paneli: https://photos.app.goo.gl/EptKC38Zc3WfFEN36
- >Admin ve Kuaför Giriş Sayfası: https://photos.app.goo.gl/DzBp96LvdkToPxsaA
+ *Anasayfa: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
+ index sayfası nabar kısmını kullanarak istediğiniz sayfaya geçiş yapabilirsiniz.
+ *Personel Sayfası: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
+ *Randevu Oluşturma Sayfası: https://photos.app.goo.gl/a9VFF9Ux58ZpfVa69
+ *Kullanıcı Giriş Sayfası: https://photos.app.goo.gl/udciUDLKiYmH5B5T9
+ *Admin Sayfası: https://photos.app.goo.gl/n15QffNHSpPD4BpL9
+ *Kuaför Paneli: https://photos.app.goo.gl/KgajBeBcs4deZs8h6
+ *Müşteri Paneli: https://photos.app.goo.gl/EptKC38Zc3WfFEN36
+ *Admin ve Kuaför Giriş Sayfası: https://photos.app.goo.gl/DzBp96LvdkToPxsaA

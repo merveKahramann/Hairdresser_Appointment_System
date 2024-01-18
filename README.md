@@ -1,16 +1,16 @@
 # Kuaför Randevu Sistemi
 ## Projeyi Çalıştırma
-1) Depoyu klonla
-2)Projeyi IDE'nizde açın: IntelliJ IDEA (önerilen) veya Eclipse
-IntelliJ IDEA kullanıyorsanız IDE'nin projeyi Maven olarak açtığından ve projeyi Spring Boot projesi olarak tanıdığından emin olun. Ayrıca, görünümlerin (gösterilecek gerçek web sayfaları) Spring Boot tarafından bulunabilmesi için projenin çalışma dizinini değiştirmeniz gerekir.
-3)Hairdressser_Appointment_System Dizinde olduğunuzdan emin olun
-application.properties Dosyadaki veritabanı bağlantısını yapılandırın
-4)Projeyi çalıştırın (yöntemi mainçalıştırarak KuaforRandevuSistemiAplication.java)
-Tarayıcınızda http://localhost:3306/ adresini açın !
-basedata.sqlEğer scripti veritabanı üzerinde çalıştırdıysanız aşağıdaki kimlik bilgileriyle admin olarak giriş yapabilirsiniz; aksi takdirde veritabanında manuel olarak bir yönetici kullanıcı oluşturmanız gerekir:
-Kullanıcı adı:admin
-Şifre:1234
-
+1. Depoyu klonla
+2. Projeyi IDE'nizde açın: IntelliJ IDEA (önerilen) veya Eclipse
+    * IntelliJ IDEA kullanıyorsanız IDE'nin projeyi **Maven** olarak açtığından ve projeyi Spring Boot projesi olarak tanıdığından emin olun. Ayrıca, görünümlerin (gösterilecek gerçek web sayfaları) Spring Boot tarafından bulunabilmesi için projenin çalışma dizinini de değiştirmelisiniz.
+3. 'KuaforRandevuSistemi' dizininde olduğunuzdan emin olun
+4. 'application.properties' dosyasında veritabanı bağlantısını yapılandırın.
+5.Projeyi çalıştırın ('KuaforRandevuSistemi.java'da 'main' yöntemini çalıştırarak)
+6.Tarayıcınızda http://localhost:3306/ adresini açın!
+   * yönetici olarak aşağıdaki kimlik bilgileri; aksi takdirde veritabanında manuel olarak bir yönetici kullanıcı oluşturmanız gerekir:
+     * Username: `admin`
+     * Password: `1234`
+  
 
 
 ### Database
@@ -68,7 +68,7 @@ The following guides illustrate how to use some features concretely:
 ###Sayfalarımızın Görüntüleri
 https://photos.app.goo.gl/9b6BPQwjRCSHjwNs7
  
- -Anasayfa: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
+ >Anasayfa: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
  -Personel Sayfası: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
  -Randevu Oluşturma Sayfası: https://photos.app.goo.gl/a9VFF9Ux58ZpfVa69
  -Kullanıcı Giriş Sayfası: https://photos.app.goo.gl/udciUDLKiYmH5B5T9

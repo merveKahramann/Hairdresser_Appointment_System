@@ -1,11 +1,11 @@
 # Kuaför Randevu Sistemi
 ## Projeyi Çalıştırma
-Depoyu klonla
-Projeyi IDE'nizde açın: IntelliJ IDEA (önerilen) veya Eclipse
+1) Depoyu klonla
+2)Projeyi IDE'nizde açın: IntelliJ IDEA (önerilen) veya Eclipse
 IntelliJ IDEA kullanıyorsanız IDE'nin projeyi Maven olarak açtığından ve projeyi Spring Boot projesi olarak tanıdığından emin olun. Ayrıca, görünümlerin (gösterilecek gerçek web sayfaları) Spring Boot tarafından bulunabilmesi için projenin çalışma dizinini değiştirmeniz gerekir.
-Hairdressser_Appointment_SystemDizinde olduğunuzdan emin olun
-application.propertiesDosyadaki veritabanı bağlantısını yapılandırın
-Projeyi çalıştırın (yöntemi mainçalıştırarak KuaforRandevuSistemiAplication.java)
+3)Hairdressser_Appointment_System Dizinde olduğunuzdan emin olun
+application.properties Dosyadaki veritabanı bağlantısını yapılandırın
+4)Projeyi çalıştırın (yöntemi mainçalıştırarak KuaforRandevuSistemiAplication.java)
 Tarayıcınızda http://localhost:3306/ adresini açın !
 basedata.sqlEğer scripti veritabanı üzerinde çalıştırdıysanız aşağıdaki kimlik bilgileriyle admin olarak giriş yapabilirsiniz; aksi takdirde veritabanında manuel olarak bir yönetici kullanıcı oluşturmanız gerekir:
 Kullanıcı adı:admin

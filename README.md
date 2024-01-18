@@ -70,9 +70,9 @@ Aşağıdaki kılavuzlar bazı özelliklerin somut olarak nasıl kullanılacağ�
 https://photos.app.goo.gl/9b6BPQwjRCSHjwNs7
 
  
-* Anasayfa: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
+- Anasayfa: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
   
-İndex sayfası müşteri navbar kısmını kullanarak istediği sayfaya geçiş yapabilir.
+  İndex sayfası müşteri navbar kısmını kullanarak istediği sayfaya geçiş yapabilir.
 * Kullanıcı Giriş Sayfası: https://photos.app.goo.gl/udciUDLKiYmH5B5T9
   Müşteri giriş yapabilir eğer kayıt olmadıysa kayıt olabilir ya da navbar kısmını kullanıp istediği her hangi bir sayfaya geçiş yapabilir.
 * Randevu Oluşturma Sayfası: https://photos.app.goo.gl/a9VFF9Ux58ZpfVa69

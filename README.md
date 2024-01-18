@@ -1,17 +1,15 @@
 # Kuaför Randevu Sistemi
 ## Projeyi Çalıştırma
-
-1. Clone the repository
-2. Open the project in your IDE: IntelliJ IDEA (recommended) or Eclipse
-    * If you are using IntelliJ IDEA, make sure the IDE opens project as **Maven** and recognizes the project as a Spring Boot project. Also, you must change the working directory of the project so that the views (the actual web pages to be shown) are found by Spring Boot
-3. Make sure you are in the `Hairdressser_Appointment_System` directory
-4. Configure the database connection in `application.properties` file 
-5. Run the project (by running the `main` method in `KuaforRandevuSistemiAplication.java`)
-6. Open http://localhost:3306/ in your browser!
-   * If you ran the [`basedata.sql`](https://github.com/jaygajera17/E-commerce-project-springBoot/blob/master2/JtProject/basedata.sql)script on the database, you can log in with the following credentials as admin; otherwise you'll have to manually create an admin user in the database:
-     * Username: `admin`
-     * Password: `1234`
-  
+Depoyu klonla
+Projeyi IDE'nizde açın: IntelliJ IDEA (önerilen) veya Eclipse
+IntelliJ IDEA kullanıyorsanız IDE'nin projeyi Maven olarak açtığından ve projeyi Spring Boot projesi olarak tanıdığından emin olun. Ayrıca, görünümlerin (gösterilecek gerçek web sayfaları) Spring Boot tarafından bulunabilmesi için projenin çalışma dizinini değiştirmeniz gerekir.
+Hairdressser_Appointment_SystemDizinde olduğunuzdan emin olun
+application.propertiesDosyadaki veritabanı bağlantısını yapılandırın
+Projeyi çalıştırın (yöntemi mainçalıştırarak KuaforRandevuSistemiAplication.java)
+Tarayıcınızda http://localhost:3306/ adresini açın !
+basedata.sqlEğer scripti veritabanı üzerinde çalıştırdıysanız aşağıdaki kimlik bilgileriyle admin olarak giriş yapabilirsiniz; aksi takdirde veritabanında manuel olarak bir yönetici kullanıcı oluşturmanız gerekir:
+Kullanıcı adı:admin
+Şifre:1234
 
 
 

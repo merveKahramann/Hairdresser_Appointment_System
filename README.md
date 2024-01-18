@@ -91,7 +91,7 @@ https://photos.app.goo.gl/9b6BPQwjRCSHjwNs7
   Admin ve kuaförler kendi panellerini görmek için bu sayfadan giriş yapabilirler.
 - Kuaför Paneli: https://photos.app.goo.gl/KgajBeBcs4deZs8h6
 
-  Giriş yapan kuförlrin göreceği sayfa bu sayfadır. Kuaförler bu sayfadan bilgilerini güncelleyebilir, takvimden müsait oldukları günleri belirleyebilirler müşteriler de buna uygun randevu alabilirler ve gelen randevuları onaylayıp iptal edebilirler.
+  Giriş yapan kuaförlerin göreceği sayfa bu sayfadır. Kuaförler bu sayfadan bilgilerini güncelleyebilir, takvimden müsait oldukları günleri belirleyebilirler müşteriler de buna uygun randevu alabilirler ve gelen randevuları onaylayıp iptal edebilirler.
 - Admin Paneli: https://photos.app.goo.gl/n15QffNHSpPD4BpL9
 
   Admin kuaförler buttonuna tıklayıp istediği kuaförün profilni, takvimini, randevularını görebilir. Kuaförün yaptığı her işlemi yapabilir ayrıca ekle buttonundan yeni kuaför de ekleyebilir.

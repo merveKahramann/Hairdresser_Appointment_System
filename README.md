@@ -73,6 +73,10 @@ https://photos.app.goo.gl/9b6BPQwjRCSHjwNs7
 - Anasayfa: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
   
   İndex sayfası müşteri navbar kısmını kullanarak istediği sayfaya geçiş yapabilir.
+- Personel Sayfası: https://photos.app.goo.gl/qSuXxKoWhNo2YRED8
+
+  Müşterilerin personellerimizi görebileceği sayfadır.
+
 - Kullanıcı Giriş Sayfası: https://photos.app.goo.gl/udciUDLKiYmH5B5T9
 
   Müşteri giriş yapabilir eğer kayıt olmadıysa kayıt olabilir ya da navbar kısmını kullanıp istediği her hangi bir sayfaya geçiş yapabilir.
@@ -91,4 +95,3 @@ https://photos.app.goo.gl/9b6BPQwjRCSHjwNs7
 - Admin Paneli: https://photos.app.goo.gl/n15QffNHSpPD4BpL9
 
   Admin kuaförler buttonuna tıklayıp istediği kuaförün profilni, takvimini, randevularını görebilir. Kuaförün yaptığı her işlemi yapabilir ayrıca ekle buttonundan yeni kuaför de ekleyebilir.
-- Personel Sayfası: https://photos.app.goo.gl/qSuXxKoWhNo2YRED8

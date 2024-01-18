@@ -91,4 +91,4 @@ https://photos.app.goo.gl/9b6BPQwjRCSHjwNs7
 - Admin Paneli: https://photos.app.goo.gl/n15QffNHSpPD4BpL9
 
   Admin kuaförler buttonuna tıklayıp istediği kuaförün profilni, takvimini, randevularını görebilir. Kuaförün yaptığı her işlemi yapabilir ayrıca ekle buttonundan yeni kuaför de ekleyebilir.
-- Personel Sayfası: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
+- Personel Sayfası: https://photos.app.goo.gl/qSuXxKoWhNo2YRED8

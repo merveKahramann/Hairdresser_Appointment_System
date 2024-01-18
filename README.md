@@ -73,16 +73,22 @@ https://photos.app.goo.gl/9b6BPQwjRCSHjwNs7
 - Anasayfa: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
   
   İndex sayfası müşteri navbar kısmını kullanarak istediği sayfaya geçiş yapabilir.
-* Kullanıcı Giriş Sayfası: https://photos.app.goo.gl/udciUDLKiYmH5B5T9
+- Kullanıcı Giriş Sayfası: https://photos.app.goo.gl/udciUDLKiYmH5B5T9
+
   Müşteri giriş yapabilir eğer kayıt olmadıysa kayıt olabilir ya da navbar kısmını kullanıp istediği her hangi bir sayfaya geçiş yapabilir.
-* Randevu Oluşturma Sayfası: https://photos.app.goo.gl/a9VFF9Ux58ZpfVa69
+- Randevu Oluşturma Sayfası: https://photos.app.goo.gl/a9VFF9Ux58ZpfVa69
+
   Müşteri yaptıracağı işlemi, kuaförü, tarihi ve seansı seçip randevu oluşturabilir ya da randevularım buttonuna tıklayıp önceden oluşturduğu randevuları görebilir.
-* Müşteri Paneli: https://photos.app.goo.gl/EptKC38Zc3WfFEN36
+- Müşteri Paneli: https://photos.app.goo.gl/EptKC38Zc3WfFEN36
+
   Müşteri oluşturduğu randevularını bu sayfada görür eğer isterse randevu bilgilerini güncelleybilir ya da randevusunu silerek iptal edebilir.
-* Admin ve Kuaför Giriş Sayfası: https://photos.app.goo.gl/DzBp96LvdkToPxsaA
+- Admin ve Kuaför Giriş Sayfası: https://photos.app.goo.gl/DzBp96LvdkToPxsaA
+
   Admin ve kuaförler kendi panellerini görmek için bu sayfadan giriş yapabilirler.
-* Kuaför Paneli: https://photos.app.goo.gl/KgajBeBcs4deZs8h6
+- Kuaför Paneli: https://photos.app.goo.gl/KgajBeBcs4deZs8h6
+
   Giriş yapan kuförlrin göreceği sayfa bu sayfadır. Kuaförler bu sayfadan bilgilerini güncelleyebilir, takvimden müsait oldukları günleri belirleyebilirler müşteriler de buna uygun randevu alabilirler ve gelen randevuları onaylayıp iptal edebilirler.
-* Admin Paneli: https://photos.app.goo.gl/n15QffNHSpPD4BpL9
+- Admin Paneli: https://photos.app.goo.gl/n15QffNHSpPD4BpL9
+
   Admin kuaförler buttonuna tıklayıp istediği kuaförün profilni, takvimini, randevularını görebilir. Kuaförün yaptığı her işlemi yapabilir ayrıca ekle buttonundan yeni kuaför de ekleyebilir.
-* Personel Sayfası: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
+- Personel Sayfası: https://photos.app.goo.gl/xcP8tApZaebtDqpz5
